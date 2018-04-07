@@ -1,0 +1,22 @@
+#header{
+     position: sticky;
+     top: -1px;
+     z-index: 1500;
+     -webkit-box-shadow: 0px1px17px -7pxrgba(0,0,0,0.52);
+     -moz-box-shadow: 0px1px17px -7pxrgba(0,0,0,0.52);
+     box-shadow: 0px1px17px -7pxrgba(0,0,0,0.52);
+}
+ #header .navbar-main.navbar.is-dark .navbar-brand .navbar-item.logo{
+     top: 10px;
+     height: 78px;
+}
+.pagnation.postpagnation.below{
+     border-top: 1px solid #bbb;
+     border-bottom: 1px solid #bbb;
+     position: sticky;
+     bottom: 0px;
+     z-index: 1499;
+}
+#wrapper #content .postlist .forumpanel{
+     border-bottom: none;
+}
